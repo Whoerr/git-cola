@@ -5,7 +5,7 @@ flake8
 mock
 pbr
 pylint==1.9.4; python_version < '3.0'
-pylint==2.3.1; python_version >= '3.0'
+pylint==4.0.9; python_version >= '3.0'
 PyYAML
 pytest>=3.6
 pytest-cov
